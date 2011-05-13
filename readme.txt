@@ -4,7 +4,7 @@ Donate link: http://supportus.cancerresearchuk.org/donate/
 Tags: switch theme, switch, theme, wpms, multisite, multi site, buddypress, wpmu
 Requires at least: 3.1
 Tested up to: 3.1.2
-Stable tag: 3.1.2
+Stable tag: 1.0
 
 Switch Theme allows WordPress Network Administrators to automatically switch all the themes on their WordPress installation to a different theme.
 
